@@ -11,4 +11,4 @@ The Iris dataset is a popular dataset in machine learning. It contains 150 sampl
 - `Iris_Dataset_Classification_and_Visualization.ipynb`: Jupyter Notebook containing the project code.
 - `README.md`: This README file providing information about the project.
 - `requirements.txt`: A file containing the required Python packages and their versions.
-- `data/`: A folder containing the Iris dataset (iris_dataset.csv).
+- `data`: A folder containing the Iris dataset (iris_dataset.csv).
